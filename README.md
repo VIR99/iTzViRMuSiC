@@ -139,52 +139,43 @@ Nᴏᴡ Yᴏᴜ Cᴀɴ Dᴇᴘʟᴏʏ iTzViR-MuSiC Mᴜsɪᴄ Oɴ Sᴄᴀʟɪɴ�
 > Tʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> Cʟɪᴄᴋ Tʜᴇ Bᴜᴛᴛᴏɴ Bᴇʟᴏᴡ Tᴏ Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FVIR99%2FiTzViR-MuSiC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/VIR99/iTzViR-MuSiC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 </details>
 
-# Owner And Credit)
-<details>
-<summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
-<br>
-
-## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
-
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
-</details>
+# 𝙊𝙬𝙣𝙚𝙧 𝘼𝙣𝙙 𝘾𝙧𝙚𝙙𝙞𝙩 ❄
 
 <details>
-<summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
+<summary><b>Cʀᴇᴅɪᴛ</b></summary>
 <br>
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
+## Sᴘᴇᴄɪᴀʟ Cʀᴇᴅɪᴛ
 
+- [Vɪʀ](https://t.me/VIR99)
+- [Rᴏᴄᴋs](https://github.com/ROCKS_OFFICIAL)
+- [TᴇᴀᴍIɴsᴀɴᴇ](https://t.me/KATTAI_MASSOM)
+- [Kʀɪsʜɴᴀ](https://t.me/ITZ_ROCKS_KRISHNA)
+- [Yᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
 </details>
 
 <details>
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<summary><b>Sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-# ❤️ Support<
-<a href="https://t.me/ROCKS_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+# 🎗 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 <
+<a href="https://t.me/ROCKS_OFFICIAL"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 <a href="https://t.me/Shayri_Music_Lovers"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/ROCKS_BOT_SUPPORT"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ROCKS_ROBOTS"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
 
-## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
+## Aᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
 
 <details>
-<summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
+<summary><b>Lɪʙʀᴀʀɪᴇs</b></summary>
 <br>
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ OpVir:
+Tʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ iTzViR-MuSiC :
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
