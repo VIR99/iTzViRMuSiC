@@ -2,7 +2,7 @@
 
 <h4 align="center">» iTzViR-MuSiC A Pᴏᴡᴇʀғᴜʟ, Sᴍᴀʀᴛ Aɴᴅ Sɪᴍᴘʟᴇ Bᴏᴛ Tᴏ Pʟᴀʏ Aᴜᴅɪᴏ Aɴᴅ Vɪᴅᴇᴏ Sᴏɴɢ Iɴ Tᴇʟᴇɢʀᴀᴍ<br> ...Wʀɪᴛᴛᴇɴ Wɪᴛʜ Pʏᴛʜᴏɴ Aɴᴅ Tᴇʟᴇᴛʜᴏɴ..!!</h4>
 
-<p align="center"><a href="https://t.me/ITZVIR99"><img src="https://te.legra.ph/file/b93cbe3c360ab18caca76.mp4" width="400"></a></p>
+<p align="center"><a href="https://t.me/ITZVIR99"><img src="https://te.legra.ph/file/b93cbe3c360ab18caca76.mp4" width="600"></a></p>
 
 
 > ♦ Tʜᴀɴᴋs Tᴏ Eᴠᴇʀʏᴏɴᴇ Fᴏʀ Usɪɴɢ iTzViR-MuSiC, Tʜᴀᴛ Is Tʜᴇ Gʀᴇᴀᴛᴇsᴛ Pʟᴇᴀsᴜʀᴇ Wᴇ Hᴀᴠᴇ..!!
