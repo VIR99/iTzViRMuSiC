@@ -1,21 +1,21 @@
-<h1 align="center"><b>❤️ OpVir MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>🍁🖇️ iTzViR-MuSiC 🖇️🍁</b></h1>
 
-<h4 align="center">OpVir A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center">iTzViR-MuSiC A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
-<p align="center"><a href="https://t.me/always_hungry365"><img src="https://telegra.ph/file/e5938d9ca8fb7c2724f80.jpg" width="400"></a></p>
-
-
-> ⭐️ Thanks to everyone for using OpVir, That is the greatest pleasure we have !
-
-### OpVir– History
-
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<p align="center"><a href="https://t.me/ITZVIR99"><img src="https://telegra.ph/file/e5938d9ca8fb7c2724f80.jpg" width="400"></a></p>
 
 
-## Features Of OpVir And Commands ❤️
+> ⭐️ Thanks to everyone for using iTzViR-MuSiC, That is the greatest pleasure we have !
+
+### iTzViR-MuSiC – History
+
+<a href="https://t.me/ROCKS_OFFICIAL"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
+
+
+## Features Of iTzViR-MuSiC And Commands 🖇️
 
 <details>
-<summary><b>ғᴇᴀᴛᴜʀᴇs</b></summary>
+<summary><b>Fᴇᴀᴛᴜʀᴇs</b></summary>
 <br>
 
 - Thumbnail Support
@@ -35,7 +35,7 @@
 - Block / Unblock (restrict user for using your bot)
 </details>
 
-#### Overall Basic Commands 😂
+#### Overall Basic Commands 🖇️
 <details>
 <summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
 <br>
@@ -49,7 +49,7 @@
 - `/vk <song name>` - generate song without download
 </details>
 
-### Only Admin Can Exicute 🙄
+### Only Admin Can Exicute 🖇️
 
 <details>
 <summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
@@ -65,7 +65,7 @@
 - `/deauth` - deauthorized people to access the admin commands
 </details>
 
-### Sudo Commands 🤭
+### Only For Sudousers ⚕️
 <details>
 <summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
 <br>
@@ -74,7 +74,7 @@
 - `/gban` - gban user
 </details>
     
-### Only Owner 🙈
+### Only Owner 🍁
 <details>
 <summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
 <br>
