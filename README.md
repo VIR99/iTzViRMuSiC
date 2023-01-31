@@ -1,11 +1,11 @@
 <h1 align="center"><b>🍁🖇️ iTzViR-MuSiC 🖇️🍁</b></h1>
 
-<h4 align="center">iTzViR-MuSiC A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
+<h4 align="center"» iTzViR-MuSiC A Pᴏᴡᴇʀғᴜʟ, Sᴍᴀʀᴛ Aɴᴅ Sɪᴍᴘʟᴇ Bᴏᴛ Tᴏ Pʟᴀʏ Aᴜᴅɪᴏ Aɴᴅ Vɪᴅᴇᴏ Sᴏɴɢ Iɴ Tᴇʟᴇɢʀᴀᴍ<br> ...Wʀɪᴛᴛᴇɴ Wɪᴛʜ Pʏᴛʜᴏɴ Aɴᴅ Tᴇʟᴇᴛʜᴏɴ...</h4>
 
 <p align="center"><a href="https://t.me/ITZVIR99"><img src="https://telegra.ph/file/e5938d9ca8fb7c2724f80.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using iTzViR-MuSiC, That is the greatest pleasure we have !
+> ♦ Tʜᴀɴᴋs Tᴏ Eᴠᴇʀʏᴏɴᴇ Fᴏʀ Usɪɴɢ iTzViR-MuSiC, Tʜᴀᴛ Is Tʜᴇ Gʀᴇᴀᴛᴇsᴛ Pʟᴇᴀsᴜʀᴇ Wᴇ Hᴀᴠᴇ..!!
 
 ### iTzViR-MuSiC – History
 
