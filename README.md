@@ -12,7 +12,7 @@
 <a href="https://t.me/ROCKS_OFFICIAL"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-## Features Of iTzViR-MuSiC And Commands 🖇️
+## 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙨 𝙊𝙛 𝙞𝙏𝙯𝙑𝙞𝙍-𝙈𝙪𝙎𝙞𝘾 𝘼𝙣𝙙 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨 🖇️
 
 <details>
 <summary><b>Fᴇᴀᴛᴜʀᴇs</b></summary>
@@ -35,7 +35,8 @@
 - Block / Unblock (restrict user for using your bot)
 </details>
 
-#### Overall Basic Commands 🖇️
+#### 𝙊𝙫𝙚𝙧𝙖𝙡𝙡 𝘽𝙖𝙨𝙞𝙘 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨 🖇️
+
 <details>
 <summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
 <br>
@@ -49,7 +50,7 @@
 - `/vk <song name>` - generate song without download
 </details>
 
-### Only Admin Can Exicute 🖇️
+### 𝙊𝙣𝙡𝙮 𝘼𝙙𝙢𝙞𝙣 𝘾𝙖𝙣 𝙀𝙭𝙞𝙘𝙪𝙩𝙚 🖇️
 
 <details>
 <summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
@@ -65,7 +66,8 @@
 - `/deauth` - deauthorized people to access the admin commands
 </details>
 
-### Only For Sudousers ⚕️
+### 𝙊𝙣𝙡𝙮 𝙁𝙤𝙧 𝙎𝙪𝙙𝙤𝙪𝙨𝙚𝙧𝙨 ⚕️
+
 <details>
 <summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
 <br>
@@ -74,7 +76,8 @@
 - `/gban` - gban user
 </details>
     
-### Only Owner 🍁
+### 𝙊𝙣𝙡𝙮 𝙊𝙬𝙣𝙚𝙧 🍁
+
 <details>
 <summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
 <br>
@@ -88,23 +91,23 @@
 
 </details>
 
-# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+# Dᴇᴘʟᴏʏᴍᴇɴᴛ
 
 
 <details>
-<summary><b>ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
+<summary><b>Rᴇǫᴜɪʀᴇᴍᴇɴᴛs</b></summary>
 <br>
     
-- [ᴘʏᴛʜᴏɴ𝟹.𝟿](https://www.python.org/downloads/release/python-390/)
-- [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
-- [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
-- [ᴍᴏɴɢᴏᴅʙ URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
-- [sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/StringGeneratorRobot)
+- [Pʏᴛʜᴏɴ𝟹.𝟿](https://www.python.org/downloads/release/python-390/)
+- [Tᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
+- [Tᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴛᴏᴋᴇɴ](https://t.me/botfather)
+- [Mᴏɴɢᴏᴅʙ URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06)
+- [Sᴛʀɪɴɢ sᴇssɪᴏɴ](https://t.me/StringGeneratorRobot)
     
 </details>
 
 <details>
-<summary><b>sᴄᴀʟɪɴɢᴏ</b></summary>
+<summary><b>Sᴄᴀʟɪɴɢᴏ</b></summary>
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ OpVir ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
