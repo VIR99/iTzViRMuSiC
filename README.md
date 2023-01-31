@@ -142,6 +142,10 @@ Nᴏᴡ Yᴏᴜ Cᴀɴ Dᴇᴘʟᴏʏ iTzViR-MuSiC Mᴜsɪᴄ Oɴ Sᴄᴀʟɪɴ�
 <p><a href="https://dashboard.heroku.com/new?template=https://github.com/VIR99/iTzViR-MuSiC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 </details>
 
+## 𝙑𝙋𝙎 𝘿𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩 🗝
+
+Cʜᴇᴄᴋᴏᴜᴛ [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) ғᴏʀ ᴅᴇᴛᴀɪʟᴇᴅ ᴇxᴘʟᴀɴᴀᴛɪᴏɴ ᴏɴ Vᴘs ᴅᴇᴘʟᴏʏ ʙʏ ʏᴜᴋᴋɪ. 
+
 ## 𝙊𝙬𝙣𝙚𝙧 𝘼𝙣𝙙 𝘾𝙧𝙚𝙙𝙞𝙩 ❄ 
 
 <details>
