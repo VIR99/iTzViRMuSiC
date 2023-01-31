@@ -38,7 +38,7 @@
 #### 𝙊𝙫𝙚𝙧𝙖𝙡𝙡 𝘽𝙖𝙨𝙞𝙘 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨 🖇️
 
 <details>
-<summary><b>ʙᴀsɪᴄ ᴄᴍᴅs</b></summary>
+<summary><b>Bᴀsɪᴄ ᴄᴍᴅs</b></summary>
 <br>
 
 - `/play <song name>` - play song you requested
@@ -53,7 +53,7 @@
 ### 𝙊𝙣𝙡𝙮 𝘼𝙙𝙢𝙞𝙣 𝘾𝙖𝙣 𝙀𝙭𝙞𝙘𝙪𝙩𝙚 🖇️
 
 <details>
-<summary><b>ᴀᴅᴍɪɴ ᴄᴍᴅs</b></summary>
+<summary><b>Aᴅᴍɪɴ ᴄᴍᴅs</b></summary>
 <br>
 
 - `/player` - open music player settings panel
@@ -69,7 +69,7 @@
 ### 𝙊𝙣𝙡𝙮 𝙁𝙤𝙧 𝙎𝙪𝙙𝙤𝙪𝙨𝙚𝙧𝙨 ⚕️
 
 <details>
-<summary><b>sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
+<summary><b>Sᴜᴅᴏ ᴄᴍᴅs ᴏɴʟʏ</b></summary>
 <br>
 
 - `/broadcast` - order the assistant to leave all groups
@@ -79,7 +79,7 @@
 ### 𝙊𝙣𝙡𝙮 𝙊𝙬𝙣𝙚𝙧 🍁
 
 <details>
-<summary><b>ᴏɴʟʏ ᴏᴡɴᴇʀ</b></summary>
+<summary><b>Oɴʟʏ ᴏᴡɴᴇʀ</b></summary>
 <br>
 
 - `/broadcast` - send a broadcast message from the bot
@@ -109,37 +109,37 @@
 <details>
 <summary><b>Sᴄᴀʟɪɴɢᴏ</b></summary>
 <br>
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ OpVir ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
+Nᴏᴡ Yᴏᴜ Cᴀɴ Dᴇᴘʟᴏʏ iTzViR-MuSiC Mᴜsɪᴄ Oɴ Sᴄᴀʟɪɴɢᴏ. 
         
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamOpVir/OpVirMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/VIR/iTzViR-MuSiC"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
     
 </details>
 
 <details>
-<summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
+<summary><b>Sᴛʀɪɴɢ Sᴇssɪᴏɴ</b></summary>
 <br>
     
-> ʏᴏᴜ'ʟʟ ɴᴇᴇᴅ ᴀ ᴀᴘɪ_ɪᴅ & ᴀᴘɪ_ʜᴀsʜ ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ. 
-> ᴀʟᴡᴀʏs ʀᴇᴍᴇʙᴇʀ ᴛᴏ ᴜsᴇ ɢᴏᴏᴅ ᴀᴘɪ ᴄᴏᴍʙᴏ ᴇʟsᴇ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴄᴏᴜʟᴅ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ.
+> Yᴏᴜ'ʟʟ ɴᴇᴇᴅ ᴀ `API_ID` & `API_HASH` ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴇssɪᴏɴ. 
+> Aʟᴡᴀʏs ʀᴇᴍᴇʙᴇʀ ᴛᴏ ᴜsᴇ ɢᴏᴏᴅ ᴀᴘɪ ᴄᴏᴍʙᴏ ᴇʟsᴇ ʏᴏᴜʀ ᴀᴄᴄᴏᴜɴᴛ ᴄᴏᴜʟᴅ ʙᴇ ᴅᴇʟᴇᴛᴇᴅ.
 
-<h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ʀᴇᴘʟ: </h4>    
+<h4> Gᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ʀᴇᴘʟ: </h4>    
 <p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
-<h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
+<h4> Gᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
 <p><a href="https://t.me/Session_Generator_Robot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 </details>
 
 <details>
-<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
+<summary><b>Dᴇᴘʟᴏʏ ᴛᴏ Hᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-> ʜᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs[ ʜᴇʀᴏᴋᴜ_ᴀᴘɪ_ᴋᴇʏ & ʜᴇʀᴏᴋᴜ_ᴀᴘᴘ_ɴᴀᴍᴇ ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
-> ʙʏ sᴇᴛᴛɪɴɢ ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ, sᴇᴛ ᴠᴀʀ, ᴇᴅɪᴛ ᴠᴀʀ, ᴅᴇʟᴇᴛᴇ ᴠᴀʀs , ᴄʜᴇᴄᴋ ᴅʏɴᴏ ᴜsᴀɢᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙᴏᴛ. 
-> ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
+> Hᴇʀᴏᴋᴜ ʜᴀs ᴛᴡᴏ ᴠᴀʀs [ `HEROKU_API_KEY` & `HEROKU_APP_NAME` ] ғᴏʀ ᴜᴘᴅᴀᴛᴇʀ ᴛᴏ ᴡᴏʀᴋ. 
+> Bʏ sᴇᴛᴛɪɴɢ ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴘᴘ, sᴇᴛ ᴠᴀʀ, ᴇᴅɪᴛ ᴠᴀʀ, ᴅᴇʟᴇᴛᴇ ᴠᴀʀs , ᴄʜᴇᴄᴋ ᴅʏɴᴏ ᴜsᴀɢᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙᴏᴛ. 
+> Tʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
-<h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTheTeamOpVir%2FOpVirMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<h4> Cʟɪᴄᴋ Tʜᴇ Bᴜᴛᴛᴏɴ Bᴇʟᴏᴡ Tᴏ Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ</h4>    
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FVIR99%2FiTzViR-MuSiC"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 </details>
 
 # Owner And Credit)
