@@ -105,7 +105,7 @@ def private_help_panel(_):
         [
             InlineKeyboardButton(
                 text="❄ Hᴇʟᴩ ❄",
-                url=f"https://t.me/{app.username}?start=help",
+                url=f"https://t.me/Op_VirMusiC_Bot?start=help",
             ),
         ],
     ]
