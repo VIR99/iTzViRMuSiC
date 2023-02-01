@@ -15,7 +15,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-BOT_NAME = getenv("BOT_NAME", "")
+BOT_NAME = getenv("BOT_NAME", "[🇮🇳] Oᴘ✗Vɪʀ 🍂")
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", "").split())
 )
