@@ -8,16 +8,16 @@ from pyrogram import filters
 load_dotenv()
 
 API_ID = int(getenv("API_ID","22023828"))
-API_HASH = getenv("API_HASH","")
-BOT_TOKEN = getenv("BOT_TOKEN","")
+API_HASH = getenv("API_HASH","167d1fa50767d52d8231ae8acf6eede0")
+BOT_TOKEN = getenv("BOT_TOKEN","5043078634:AAFdGsfrRxwM0TI8LRfXLNs8pFR_0FaqgOg")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://OPXVIRMUSIC:OPXVIRMUSIC@opxvirmusic.do072k5.mongodb.net/?retryWrites=true&w=majority")
 
-LOGGER_ID = int(getenv("LOGGER_ID", ""))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1001672066567"))
 
 BOT_NAME = getenv("BOT_NAME", "[🇮🇳] Oᴘ✗Vɪʀ 🍂")
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "").split())
+    map(int, getenv("OWNER_ID", "2116857965").split())
 )
     
 SUPPORT_CHANNEL = getenv(
@@ -59,8 +59,8 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "6"))
 
 GITHUB_REPO = getenv("GITHUB_REPO", "https://te.legra.ph/file/fa898291a360b85acb1ab.mp4")
 
-SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "")
-SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "")
+SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "ec8b977cffb74c2abc458c5e59724392")
+SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "8d353de4053340359521957853ea2dcf")
 
 VIDEO_STREAM_LIMIT = int(getenv("VIDEO_STREAM_LIMIT", "5"))
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "50"))
@@ -78,7 +78,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 )
 
 
-STRING1 = getenv("STRING_SESSION", "")
+STRING1 = getenv("STRING_SESSION", "AQAinv_3rcgy7iKNLVfSdrFGmzRUA2QdFMm87QXqeoygs6Sh2FHb5jb3WqW1SkQvaIz5e_O4TDFVs-vS9iCCoxS1bLVyOwJzDZzFKRojmOqIqpGEl592XfXPTlNNQdjavxJud6I1S2EC8Rn8n_N4J_FkYWQhM_rBy5cVJz2ixuExHTdJNZ8tvDmf2nMyZvQOIBDfeiueQewRkCLRA4GDq6MJwgNgKw2yV5d2Oa28RWn-RE3ELZ-s8ZjUe39TfJW8TsjSizcns_RTXq4Py_PC0XbNL89-wo66l6_aF87g_f9HKXxXn-WYsEILspS8qya4Woo48qOE4qoV7VKvgdR8uODnAAAAAT5t-McA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
