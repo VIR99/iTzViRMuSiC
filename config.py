@@ -15,6 +15,8 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://OPXVIRMUSIC:OPXVIRMUSIC@opx
 
 LOGGER_ID = int(getenv("LOGGER_ID", "-1001672066567"))
 
+GBAN_LOG_ID = int(getenv("GBAN_LOG", "-1001582846226"))
+
 BOT_NAME = getenv("BOT_NAME", "[🇮🇳] Oᴘ✗Vɪʀ 🍂")
 OWNER_ID = list(
     map(int, getenv("OWNER_ID", "2116857965").split())
