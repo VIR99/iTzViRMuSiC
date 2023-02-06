@@ -227,7 +227,7 @@ song_11 : "Uᴘʟᴏᴀᴅɪɴɢ sᴛᴀʀᴛᴇᴅ ʙᴀʙʏ\n\nᴘʟᴇᴀsᴇ
 queue_1 : "☛ Pʟᴇᴀsᴇ ᴡᴀɪᴛ...!!"
 queue_2 : "Queued List Is Empty. No tracks found"
 queue_3 : "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
-queue_4 : "乛❰ ~𝘈𝘥𝘥𝘦𝘥 𝘘𝘶𝘦𝘶𝘦 #{0} ✅ ❱\n•━━━━━━━━━━━━━━━━•\n\n🌸 𝘛𝘪𝘵𝘭𝘦 ~ [{0}]({1}) ⪼\n• ─────── •\n🖇 𝘋𝘶𝘳𝘢𝘵𝘪𝘰𝘯 ~ {2} ⪼\n• ─────── •\n🎙 𝘗𝘭𝘢𝘺𝘦𝘥 𝘉𝘺 ~ [Hᴇʀᴇ](https://t.me/about_innocent) ⪼\n• ─────── •\n"
+queue_4 : "乛❰ ~𝘈𝘥𝘥𝘦𝘥 𝘘𝘶𝘦𝘶𝘦 **#{0}** ✅ ❱\n•━━━━━━━━━━━━━━━━•\n\n🌸 𝘛𝘪𝘵𝘭𝘦 ~ `{1}` ⪼\n• ─────── •\n🖇 𝘋𝘶𝘳𝘢𝘵𝘪𝘰𝘯 ~ `{2}` ⪼\n• ─────── •\n🎙 𝘗𝘭𝘢𝘺𝘦𝘥 𝘉𝘺 ~ [Hᴇʀᴇ](https://t.me/about_innocent) ⪼\n• ─────── •\n"
 queue_5 : "Oɴʟʏ ᴏɴᴇ ᴛʀᴀᴄᴋ ɪs ɪɴ ǫᴜᴇᴜᴇ, Aᴅᴅ sᴏᴍᴇ ᴍᴏʀᴇ ᴛʀᴀᴄᴋs ɪɴ ǫᴜᴇᴜᴇ ᴛᴏ ᴄʜᴇᴄᴋ ᴡʜᴏʟᴇ ǫᴜᴇᴜᴇ."
 
 # All Streaming Lines
