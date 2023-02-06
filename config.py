@@ -9,7 +9,7 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID","22023828"))
 API_HASH = getenv("API_HASH","167d1fa50767d52d8231ae8acf6eede0")
-BOT_TOKEN = getenv("BOT_TOKEN","5043078634:AAFdGsfrRxwM0TI8LRfXLNs8pFR_0FaqgOg")
+BOT_TOKEN = getenv("BOT_TOKEN","5043078634:AAGEKYtUjHL4BpiGEu6E-4Vog_AKnfgzP-0")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://OPXVIRMUSIC:OPXVIRMUSIC@opxvirmusic.do072k5.mongodb.net/?retryWrites=true&w=majority")
 
