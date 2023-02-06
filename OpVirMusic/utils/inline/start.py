@@ -9,17 +9,17 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="⛦ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⛦",
+                text="+ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ +",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="⛦ Hᴇʟᴩ ⛦",
+                text=" Hᴇʟᴩ ",
                 callback_data="settings_back_helper",
             ),
             InlineKeyboardButton(
-                text="⛦ Sᴇᴛᴛɪɴɢs ⛦", callback_data="settings_helper"
+                text=" Sᴇᴛᴛɪɴɢs ", callback_data="settings_helper"
             ),
         ],
      ]
@@ -30,26 +30,26 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
     buttons = [
         [
             InlineKeyboardButton(
-                text="⛦ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⛦",
+                text="+ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ +",
                 url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
             )
         ],
         [
             InlineKeyboardButton(
-                text="⛦ Hᴇʟᴩ ⛦", callback_data="settings_back_helper"
+                text="Hᴇʟᴩ", callback_data="settings_back_helper"
             )
         ],
         [
             InlineKeyboardButton(
-                text="⛦ Sᴜᴩᴩᴏʀᴛ ⛦", url=config.SUPPORT_GROUP
+                text="Sᴜᴩᴩᴏʀᴛ", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="⛦ Oᴡɴᴇʀ ⛦", user_id=OWNER
+                text="Oᴡɴᴇʀ", user_id=OWNER
             )
         ],
         [
             InlineKeyboardButton(
-                text="⛦ Sᴏᴜʀᴄᴇ ⛦", callback_data="gib_source"
+                text="[❄️] Iɴᴛʀᴏᴅᴜᴄᴛɪᴏɴ [❄️] ⛦", callback_data="gib_source"
             )
         ],
      ]
