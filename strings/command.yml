@@ -43,7 +43,7 @@ RESTART_COMMAND : ["reboot"]
 # Sudo Command
 ADDSUDO_COMMAND : ["addsudo", "addrandi", "randi"]
 DELSUDO_COMMAND : ["delsudo", "rmsudo", "bsdk", "bhakkbsdk"]
-SUDOUSERS_COMMAND : ["sudo"]
+SUDOUSERS_COMMAND : ["sudo", "sudolist"]
 
 #Broadcast 
 BROADCAST_COMMAND : ["broadcast", "gcast"]
