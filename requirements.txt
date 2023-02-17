@@ -20,6 +20,6 @@ speedtest-cli
 spotipy
 tgcrypto
 numpy
-yt-dlp-U
+yt-dlp
 youtube-search
 youtube-search-python
