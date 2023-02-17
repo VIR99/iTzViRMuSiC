@@ -6,4 +6,6 @@ RUN apt-get update -y && apt-get upgrade -y \
 COPY . /app/
 WORKDIR /app/
 RUN pip3 install --no-cache-dir --upgrade --requirement requirements.txt
+RUN python3 -m pip install -U pip setuptools wheel
+RUN python3 -m pip install --force-reinstall https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
 CMD bash start
