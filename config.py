@@ -40,7 +40,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://VIR99: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@github.com/vir99/iTzViR-MuSiC",
+    "https://github.com/VIR99/iTzViR-MuSiC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
