@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("ROCKS_ROBOTS")
-                await self.one.join_chat("Alexa_Help")
+                await self.one.join_chat("AbOuT_InNoCeNt")
+                await self.one.join_chat("InsaneSupportChat")
             except:
                 pass
             assistants.append(1)
@@ -79,8 +79,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("ROCKS_ROBOTS")
-                await self.two.join_chat("Alexa_Help")
+                await self.two.join_chat("AbOuT_InNoCeNt")
+                await self.two.join_chat("InsaneSupportChat")
             except:
                 pass
             assistants.append(2)
@@ -110,8 +110,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("ROCKS_ROBOTS")
-                await self.three.join_chat("Alexa_Help")
+                await self.three.join_chat("AbOuT_InNoCeNt")
+                await self.three.join_chat("InsaneSupportChat")
             except:
                 pass
             assistants.append(3)
@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("ROCKS_ROBOTS")
-                await self.four.join_chat("Alexa_Help")
+                await self.four.join_chat("AbOuT_InNoCeNt")
+                await self.four.join_chat("InsaneSupportChat")
             except:
                 pass
             assistants.append(4)
@@ -172,8 +172,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("ROCKS_ROBOTS")
-                await self.five.join_chat("Alexa_Help")
+                await self.five.join_chat("AbOuT_InNoCeNt")
+                await self.five.join_chat("InsaneSupportChat")
             except:
                 pass
             assistants.append(5)
