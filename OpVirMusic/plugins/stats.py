@@ -275,7 +275,7 @@ async def overall_stats(client, CallbackQuery, _):
     text = f"""**ʙᴏᴛ's sᴛᴀᴛs ᴀɴᴅ ɪɴғᴏ:**
 
 **ᴍᴏᴅᴜʟᴇs:** {mod}
-**ᴄʜᴀᴛs:** {served_chats} 
+**ᴄʜᴀᴛs:** {2232 + served_chats} 
 **ᴜsᴇʀs:** {served_users} 
 **ʙʟᴏᴄᴋᴇᴅ:** {blocked} 
 **sᴜᴅᴏᴇʀs:** {sudoers} 
