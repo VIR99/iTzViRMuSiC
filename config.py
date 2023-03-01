@@ -11,7 +11,7 @@ API_ID = int(getenv("API_ID","20168427"))
 API_HASH = getenv("API_HASH","fbb17a9011696e88f427f7608a855817")
 BOT_TOKEN = getenv("BOT_TOKEN","5043078634:AAErKC_A1YrRYtOHcZ-NVX77DP04ipWlsYw")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://OPVIRMUSIC:OPVIRMUSIC@cluster0.s7s9m.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://OPXVIRMUSIC:OPXVIRMUSIC@opxvirmusic.do072k5.mongodb.net/?retryWrites=true&w=majority")
 
 LOGGER_ID = int(getenv("LOGGER_ID", "-1001672066567"))
 
