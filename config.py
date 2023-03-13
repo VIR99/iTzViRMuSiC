@@ -44,7 +44,7 @@ UPSTREAM_REPO = getenv(
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 
-GIT_TOKEN = getenv("GIT_TOKEN", "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")
+GIT_TOKEN = getenv("GIT_TOKEN", "")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
 
