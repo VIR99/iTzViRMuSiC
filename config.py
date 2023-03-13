@@ -7,11 +7,11 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID","20168427"))
-API_HASH = getenv("API_HASH","fbb17a9011696e88f427f7608a855817")
-BOT_TOKEN = getenv("BOT_TOKEN","5043078634:AAErKC_A1YrRYtOHcZ-NVX77DP04ipWlsYw")
+API_ID = int(getenv("API_ID",""))
+API_HASH = getenv("API_HASH","")
+BOT_TOKEN = getenv("BOT_TOKEN","")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://OPXVIRMUSIC:OPXVIRMUSIC@opxvirmusic.do072k5.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
 LOGGER_ID = int(getenv("LOGGER_ID", "-1001672066567"))
 
@@ -23,7 +23,7 @@ OWNER_ID = list(
 )
     
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/ROCKS_BOT_SUPPORT")
+    "SUPPORT_CHANNEL", "https://t.me/TheTeamInsane")
 SUPPORT_GROUP = getenv(
     "SUPPORT_GROUP", "https://t.me/Shayri_Music_Lovers")
 
@@ -80,7 +80,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 )
 
 
-STRING1 = getenv("STRING_SESSION", "BQA03HLLm05QD6IdSFXctY80bz6NGPaNUI6-RHW8flKjg8YI7ckYMY9u5LzQhuJg5ok8qXJXMhjUrkiAQt2Vuunkymgn_yQUI3pfMpN9WWZv2UIx5W-ozqrBQFj6uIyQZoG2PU0r46iGMi11gwVr8DDU6-Blq9bd4ZjwBotjtoFHrbhssyG4LRTQ4_B6usjfTi3wr_0DEw1Sg0ghzGFs86hl1BryWkVeEcVVfCcnCIDcbUlaamG1iDzvTxi_Gzkc0grN3TytFcpCgfkypGhV5vNbQbarDeXfmZtfiqIzftb3wQF5aNNw-oiXqOHO5lHRJ6TwtL4uEXifUmWMJGLtgkylAAAAATxbkKEA")
+STRING1 = getenv("STRING_SESSION", "")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
