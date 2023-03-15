@@ -15,7 +15,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
-GBAN_LOG_ID = int(getenv("GBAN_LOG", "-1001582846226"))
+GBAN_LOG_ID = int(getenv("GBAN_LOG", ""))
 
 BOT_NAME = getenv("BOT_NAME", "[🇮🇳] Oᴘ✗Vɪʀ 🍂")
 OWNER_ID = list(
