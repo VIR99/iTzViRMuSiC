@@ -7,19 +7,19 @@ from pyrogram import filters
 
 load_dotenv()
 
-API_ID = int(getenv("API_ID",""))
-API_HASH = getenv("API_HASH","")
-BOT_TOKEN = getenv("BOT_TOKEN","")
+API_ID = int(getenv("API_ID", "25058013"))
+API_HASH = getenv("API_HASH", "8c03e5160bfcc564c95bbf0e3edd6067")
+BOT_TOKEN = getenv("BOT_TOKEN", "5674878206:AAESqIzPWINlJE4w5UjBtxGAydm6OSRKHso")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Kittuthemeoe:kiranraj@cluster0.mv6oj.mongodb.net/?retryWrites=true&w=majority")
 
-LOGGER_ID = int(getenv("LOGGER_ID", ""))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1001853853435"))
 
-GBAN_LOG_ID = int(getenv("GBAN_LOG", ""))
+GBAN_LOG_ID = int(getenv("GBAN_LOG", "https://t.me/luckyclub16"))
 
-BOT_NAME = getenv("BOT_NAME", "[🇮🇳] Oᴘ✗Vɪʀ 🍂")
+BOT_NAME = getenv("BOT_NAME", "Lucky music")
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "2116857965").split())
+    map(int, getenv("OWNER_ID", "5613528193").split())
 )
     
 SUPPORT_CHANNEL = getenv(
@@ -97,12 +97,11 @@ userstats = {}
 clean = {}
 
 autoclean = []
-
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/fefb3d2468adb33461070.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/f3a512aa43c460ccecc88.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/c384e0a5f8a49c1c331a3.png",
+    "https://te.legra.ph/file/5d37dec57f3a433755e76.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://telegra.ph/file/075610fd1519afd9ed467.png"
